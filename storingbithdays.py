@@ -1,0 +1,6 @@
+mombday=("4 may 1981")
+dadbday=( "5 june 1974")
+sisbday=("17 may 2006")
+print(sisbday)
+print(dadbday)
+print(mombday)
